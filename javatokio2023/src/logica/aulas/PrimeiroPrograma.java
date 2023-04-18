@@ -24,6 +24,9 @@ public class PrimeiroPrograma {
 		
 		System.out.println("Bem-vindo, " + nome + "!");
 		System.out.println(nome + ", você tem " + idade);
+		
+		
 	}
+	
 
 }
