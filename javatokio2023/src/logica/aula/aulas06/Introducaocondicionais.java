@@ -34,7 +34,7 @@ public class Introducaocondicionais {
 		//-----------------------------
 		
 		
-		float notaFinal = 4;
+		float notaFinal = 10;
 		
 		if(notaFinal < 4) {
 			System.out.println("Reprovado");
