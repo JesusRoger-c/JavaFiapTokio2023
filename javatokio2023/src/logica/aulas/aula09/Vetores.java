@@ -25,11 +25,11 @@ public class Vetores {
 			
 		int[] numeros = {0,5,20,30};
 		
-		for(int i = 0; i < numeros.length; i++) {
+		for(int i = 0; i < numeros.length; i++)  
 			System.out.printf("pos: %d -- Valor: %d \n", i, numeros[i]);
 			
 		}
 		}
 
-	}
+	
 

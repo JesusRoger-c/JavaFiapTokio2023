@@ -15,6 +15,7 @@ public class Exercicio4 {
 		int valorFinal;
 		valorFinal = v1 + v2;
 		
+		
 		if(valorFinal % 2 == 0) {
 		System.out.println("valores sao multiplos");
 	   }else {
